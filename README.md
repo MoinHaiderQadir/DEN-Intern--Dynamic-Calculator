@@ -32,12 +32,6 @@ An intelligent, fully responsive calculator that auto-calculates results **after
 
 ---
 
-## ✨ Live Preview (Optional)
-
-> Coming soon: [Click to View Online](#)  
-*(If hosted on GitHub Pages or Netlify, add your link here)*
-
----
 
 ## 🛠️ How to Use
 
@@ -60,6 +54,7 @@ An intelligent, fully responsive calculator that auto-calculates results **after
 
 ### 💻 Desktop View
 ![Desktop Screenshot](./screenshots/desktop.png)
+![Dynamic Auto Calculator Preview](./preview.png)
 
 ### 📱 Mobile View
 ![Mobile Screenshot](./screenshots/Screenshot 2025-08-03 101933.png)
@@ -70,20 +65,13 @@ An intelligent, fully responsive calculator that auto-calculates results **after
 
 ## 🧑‍💻 Author
 
-**Zk** — *HTML, CSS, and JavaScript enthusiast with a focus on clean UI/UX and dynamic logic design.*
+**Moin Haider Qadir** — *Full Stack Developer enthusiast with a focus on clean UI/UX and dynamic logic design.*
 
 ---
 
-## 📢 License
-
-MIT License. Free to use, modify, and share!
-
----
 
 > If you like this project, feel free to ⭐ star it and share it with others!
 
 
----
 
-## 📂 File Structure
 
