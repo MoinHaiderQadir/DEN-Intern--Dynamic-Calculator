@@ -1,4 +1,6 @@
+
 # 🔢 Dynamic Auto Calculator
+![Dynamic Auto Calculator Preview](./preview.png)
 
 An intelligent, fully responsive calculator that auto-calculates results **after 2 seconds of inactivity** — **no "=" button required**! Built using only **HTML, CSS, and JavaScript**, this project blends modern UI/UX principles with real-time dynamic logic.
 
