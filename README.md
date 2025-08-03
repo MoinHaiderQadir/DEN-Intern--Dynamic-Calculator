@@ -59,7 +59,7 @@ An intelligent, fully responsive calculator that auto-calculates results **after
 ### 📱 Mobile View
 ![Mobile Screenshot](./Screenshot%202025-08-03%20101933.png)
 
-> *(Add your own screenshots in a folder called `/screenshots` to activate this section)*
+
 
 ---
 
