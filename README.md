@@ -54,11 +54,10 @@ An intelligent, fully responsive calculator that auto-calculates results **after
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](./screenshots/desktop.png)
-![Dynamic Auto Calculator Preview](./preview.png)
+![Desktop Screenshot](./Screenshot%202025-08-03%20101948.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](./screenshots/Screenshot 2025-08-03 101933.png)
+![Mobile Screenshot](./Screenshot%202025-08-03%20101933.png)
 
 > *(Add your own screenshots in a folder called `/screenshots` to activate this section)*
 
